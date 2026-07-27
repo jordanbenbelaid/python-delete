@@ -16,6 +16,9 @@ print(1.2)
 
 print(12)
 
-print("Jordan")
 
+print("Jordan")
 print("This is branch 1 changes")
+
+print("Emma")
+print("Branch 2 is way better")
